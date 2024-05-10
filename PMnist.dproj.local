@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.561,=D:\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.687,=D:\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/21 00:13:16.000.845,=D:\我的文档\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/10/21 00:14:08.000.962,D:\PRO\AI\Mnist\UnitMnist.dfm=D:\我的文档\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2017/10/21 00:14:08.000.962,D:\PRO\AI\Mnist\UnitMnist.pas=D:\我的文档\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/10/21 00:14:20.000.398,D:\PRO\AI\Mnist\PMnist.dproj=D:\我的文档\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+		<Paa iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
